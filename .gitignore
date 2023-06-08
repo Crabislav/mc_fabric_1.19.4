@@ -2,4 +2,6 @@
 */
 
 !/mods
+!/mods/*
 !/config
+!/config/*
